@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">nachofukncheez test app</string>
+    <string name="txtWelcome">Welcome to your fukn App beeech</string>
+    <string name="txtEndPage">Please Check Info before Submission</string>
+    <string name="btntxtSave">Save</string>
+    <string name="txtName">Name:</string>
+    <string name="btnShowInfo" >Show Info</string>
+</resources>
